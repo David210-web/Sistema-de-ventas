@@ -1,0 +1,50 @@
+C:\Users\cdavi\OneDrive\Escritorio\Formulario prueba\FrProyectoFinal\FrProyectoFinal\bin\Debug\FrProyectoFinal.exe.config
+C:\Users\cdavi\OneDrive\Escritorio\Formulario prueba\FrProyectoFinal\FrProyectoFinal\bin\Debug\FrProyectoFinal.exe
+C:\Users\cdavi\OneDrive\Escritorio\Formulario prueba\FrProyectoFinal\FrProyectoFinal\bin\Debug\FrProyectoFinal.pdb
+C:\Users\cdavi\OneDrive\Escritorio\Formulario prueba\FrProyectoFinal\FrProyectoFinal\obj\Debug\FrProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\cdavi\OneDrive\Escritorio\Formulario prueba\FrProyectoFinal\FrProyectoFinal\obj\Debug\FrProyectoFinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\cdavi\OneDrive\Escritorio\Formulario prueba\FrProyectoFinal\FrProyectoFinal\obj\Debug\FrProyectoFinal.Properties.Resources.resources
+C:\Users\cdavi\OneDrive\Escritorio\Formulario prueba\FrProyectoFinal\FrProyectoFinal\obj\Debug\FrProyectoFinal.csproj.GenerateResource.cache
+C:\Users\cdavi\OneDrive\Escritorio\Formulario prueba\FrProyectoFinal\FrProyectoFinal\obj\Debug\FrProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\cdavi\OneDrive\Escritorio\Formulario prueba\FrProyectoFinal\FrProyectoFinal\obj\Debug\FrProyectoFinal.exe
+C:\Users\cdavi\OneDrive\Escritorio\Formulario prueba\FrProyectoFinal\FrProyectoFinal\obj\Debug\FrProyectoFinal.pdb
+C:\Users\cdavi\OneDrive\Escritorio\Formulario prueba\FrProyectoFinal\FrProyectoFinal\obj\Debug\FrProyectoFinal.Home.resources
+C:\Users\cdavi\OneDrive\Escritorio\Formulario prueba\FrProyectoFinal\FrProyectoFinal\obj\Debug\FrProyectoFinal.CarritoCompra.resources
+C:\Users\cdavi\OneDrive\Escritorio\Formulario prueba\FrProyectoFinal\FrProyectoFinal\obj\Debug\FrProyectoFinal.Compra.resources
+C:\Users\manuh\OneDrive\Escritorio\MANUEL\4\FrProyectoFinal\FrProyectoFinal\bin\Debug\FrProyectoFinal.exe.config
+C:\Users\manuh\OneDrive\Escritorio\MANUEL\4\FrProyectoFinal\FrProyectoFinal\bin\Debug\FrProyectoFinal.exe
+C:\Users\manuh\OneDrive\Escritorio\MANUEL\4\FrProyectoFinal\FrProyectoFinal\bin\Debug\FrProyectoFinal.pdb
+C:\Users\manuh\OneDrive\Escritorio\MANUEL\4\FrProyectoFinal\FrProyectoFinal\obj\Debug\FrProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\manuh\OneDrive\Escritorio\MANUEL\4\FrProyectoFinal\FrProyectoFinal\obj\Debug\FrProyectoFinal.CarritoCompra.resources
+C:\Users\manuh\OneDrive\Escritorio\MANUEL\4\FrProyectoFinal\FrProyectoFinal\obj\Debug\FrProyectoFinal.Compra.resources
+C:\Users\manuh\OneDrive\Escritorio\MANUEL\4\FrProyectoFinal\FrProyectoFinal\obj\Debug\FrProyectoFinal.Home.resources
+C:\Users\manuh\OneDrive\Escritorio\MANUEL\4\FrProyectoFinal\FrProyectoFinal\obj\Debug\FrProyectoFinal.Properties.Resources.resources
+C:\Users\manuh\OneDrive\Escritorio\MANUEL\4\FrProyectoFinal\FrProyectoFinal\obj\Debug\FrProyectoFinal.csproj.GenerateResource.cache
+C:\Users\manuh\OneDrive\Escritorio\MANUEL\4\FrProyectoFinal\FrProyectoFinal\obj\Debug\FrProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\manuh\OneDrive\Escritorio\MANUEL\4\FrProyectoFinal\FrProyectoFinal\obj\Debug\FrProyectoFinal.exe
+C:\Users\manuh\OneDrive\Escritorio\MANUEL\4\FrProyectoFinal\FrProyectoFinal\obj\Debug\FrProyectoFinal.pdb
+D:\Users\cdavi\Downloads\FrProyectoFinal4\4\FrProyectoFinal\FrProyectoFinal\bin\Debug\FrProyectoFinal.exe.config
+D:\Users\cdavi\Downloads\FrProyectoFinal4\4\FrProyectoFinal\FrProyectoFinal\bin\Debug\FrProyectoFinal.exe
+D:\Users\cdavi\Downloads\FrProyectoFinal4\4\FrProyectoFinal\FrProyectoFinal\bin\Debug\FrProyectoFinal.pdb
+D:\Users\cdavi\Downloads\FrProyectoFinal4\4\FrProyectoFinal\FrProyectoFinal\obj\Debug\FrProyectoFinal.csproj.AssemblyReference.cache
+D:\Users\cdavi\Downloads\FrProyectoFinal4\4\FrProyectoFinal\FrProyectoFinal\obj\Debug\FrProyectoFinal.csproj.SuggestedBindingRedirects.cache
+D:\Users\cdavi\Downloads\FrProyectoFinal4\4\FrProyectoFinal\FrProyectoFinal\obj\Debug\FrProyectoFinal.CarritoCompra.resources
+D:\Users\cdavi\Downloads\FrProyectoFinal4\4\FrProyectoFinal\FrProyectoFinal\obj\Debug\FrProyectoFinal.Compra.resources
+D:\Users\cdavi\Downloads\FrProyectoFinal4\4\FrProyectoFinal\FrProyectoFinal\obj\Debug\FrProyectoFinal.Home.resources
+D:\Users\cdavi\Downloads\FrProyectoFinal4\4\FrProyectoFinal\FrProyectoFinal\obj\Debug\FrProyectoFinal.Properties.Resources.resources
+D:\Users\cdavi\Downloads\FrProyectoFinal4\4\FrProyectoFinal\FrProyectoFinal\obj\Debug\FrProyectoFinal.csproj.GenerateResource.cache
+D:\Users\cdavi\Downloads\FrProyectoFinal4\4\FrProyectoFinal\FrProyectoFinal\obj\Debug\FrProyectoFinal.csproj.CoreCompileInputs.cache
+D:\Users\cdavi\Downloads\FrProyectoFinal4\4\FrProyectoFinal\FrProyectoFinal\obj\Debug\FrProyectoFinal.exe
+D:\Users\cdavi\Downloads\FrProyectoFinal4\4\FrProyectoFinal\FrProyectoFinal\obj\Debug\FrProyectoFinal.pdb
+D:\FrProyectoFinalTerminado\FrProyectoFinal4\4\FrProyectoFinal\FrProyectoFinal\bin\Debug\FrProyectoFinal.exe.config
+D:\FrProyectoFinalTerminado\FrProyectoFinal4\4\FrProyectoFinal\FrProyectoFinal\bin\Debug\FrProyectoFinal.exe
+D:\FrProyectoFinalTerminado\FrProyectoFinal4\4\FrProyectoFinal\FrProyectoFinal\bin\Debug\FrProyectoFinal.pdb
+D:\FrProyectoFinalTerminado\FrProyectoFinal4\4\FrProyectoFinal\FrProyectoFinal\obj\Debug\FrProyectoFinal.csproj.AssemblyReference.cache
+D:\FrProyectoFinalTerminado\FrProyectoFinal4\4\FrProyectoFinal\FrProyectoFinal\obj\Debug\FrProyectoFinal.CarritoCompra.resources
+D:\FrProyectoFinalTerminado\FrProyectoFinal4\4\FrProyectoFinal\FrProyectoFinal\obj\Debug\FrProyectoFinal.Compra.resources
+D:\FrProyectoFinalTerminado\FrProyectoFinal4\4\FrProyectoFinal\FrProyectoFinal\obj\Debug\FrProyectoFinal.Home.resources
+D:\FrProyectoFinalTerminado\FrProyectoFinal4\4\FrProyectoFinal\FrProyectoFinal\obj\Debug\FrProyectoFinal.Properties.Resources.resources
+D:\FrProyectoFinalTerminado\FrProyectoFinal4\4\FrProyectoFinal\FrProyectoFinal\obj\Debug\FrProyectoFinal.csproj.GenerateResource.cache
+D:\FrProyectoFinalTerminado\FrProyectoFinal4\4\FrProyectoFinal\FrProyectoFinal\obj\Debug\FrProyectoFinal.csproj.CoreCompileInputs.cache
+D:\FrProyectoFinalTerminado\FrProyectoFinal4\4\FrProyectoFinal\FrProyectoFinal\obj\Debug\FrProyectoFinal.exe
+D:\FrProyectoFinalTerminado\FrProyectoFinal4\4\FrProyectoFinal\FrProyectoFinal\obj\Debug\FrProyectoFinal.pdb

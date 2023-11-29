@@ -1,0 +1,141 @@
+CREATE DATABASE DB_SISTEMA_VENTAS
+GO
+
+USE DB_SISTEMA_VENTAS
+GO
+
+-- Tabla de Productos
+CREATE TABLE Productos (
+    ID_Producto INT PRIMARY KEY,
+    Nombre NVARCHAR(255) NOT NULL,
+    Descripcion NVARCHAR(MAX),
+    Precio DECIMAL(10, 2) NOT NULL,
+    Cantidad_Stock INT NOT NULL
+);
+go
+
+-- Tabla de Clientes
+CREATE TABLE Clientes (
+    ID_Cliente INT PRIMARY KEY IDENTITY(1,1),
+    Nombre NVARCHAR(255) NOT NULL,
+    Direccion NVARCHAR(255),
+    Informacion_Contacto NVARCHAR(255)
+);
+go
+
+-- Tabla de Pedidos
+CREATE TABLE Pedidos (
+    ID_Pedido INT PRIMARY KEY IDENTITY(1,1),
+    ID_Cliente INT,
+    Fecha_Pedido DATE DEFAULT GETDATE(),
+    Total DECIMAL(10, 2),
+    FOREIGN KEY (ID_Cliente) REFERENCES Clientes(ID_Cliente)
+);
+go
+-- Tabla de Detalle de Pedido
+CREATE TABLE Detalle_Pedido (
+    ID_Detalle_Pedido INT PRIMARY KEY,
+    ID_Pedido INT,
+    ID_Producto INT,
+    Cantidad INT,
+    Precio_Unitario DECIMAL(10, 2),
+    Total_Producto DECIMAL(10, 2),
+    FOREIGN KEY (ID_Pedido) REFERENCES Pedidos(ID_Pedido),
+    FOREIGN KEY (ID_Producto) REFERENCES Productos(ID_Producto)
+);
+go
+
+INSERT INTO Productos (ID_Producto, Nombre, Descripcion, Precio, Cantidad_Stock)
+VALUES 
+(1,'Laptop UltraSlim', 'Potente laptop ultradelgada con procesador rápido y pantalla de alta resolución.', 1299.99, 20),
+(2,'Smartphone Avanzado', 'Último modelo de smartphone con cámara de alta calidad y rendimiento excepcional.', 899.99, 30),
+(3,'Tablet Pro', 'Tablet profesional con capacidad de procesamiento multitarea y diseño elegante.', 549.50, 15),
+(4,'Cámara Mirrorless 4K', 'Cámara fotográfica sin espejo con capacidad de grabación en resolución 4K.', 1199.99, 10),
+(5,'Auriculares Inalámbricos Premium', 'Auriculares de alta calidad con cancelación de ruido y sonido envolvente.', 299.99, 25),
+(6,'Smartwatch Fitness', 'Reloj inteligente diseñado para seguimiento de actividad física y notificaciones inteligentes.', 199.99, 40),
+(7,'Impresora Todo en Uno', 'Impresora multifuncional con capacidad de impresión, escaneo y copiado.', 149.95, 18),
+(8,'Router de Última Generación', 'Router con tecnología de vanguardia para una conexión rápida y segura.', 89.99, 50),
+(9,'Teclado Mecánico RGB', 'Teclado para juegos con interruptores mecánicos y retroiluminación RGB personalizable.', 129.99, 22),
+(10,'Monitor Curvo 4K', 'Monitor de alta resolución con pantalla curva para una experiencia visual inmersiva.', 399.99, 12),
+(11,'Altavoces Bluetooth Potentes', 'Altavoces inalámbricos con sonido de alta fidelidad y diseño elegante.', 179.99, 28),
+(12,'Disco Duro Externo Resistente', 'Almacenamiento externo duradero con capacidad amplia y resistencia a golpes.', 119.99, 15),
+(13,'Mochila Tecnológica', 'Mochila diseñada para transportar de manera segura dispositivos tecnológicos y accesorios.', 79.99, 35),
+(14,'Cargador Inalámbrico Rápido', 'Base de carga inalámbrica para dispositivos compatibles con carga rápida.', 49.95, 45),
+(15,'Kit de Cámaras de Seguridad', 'Sistema completo de cámaras de seguridad para el hogar con monitoreo remoto.', 299.99, 8),
+(16,'Mini Proyector Portátil', 'Proyector compacto con capacidad de reproducción de alta resolución y portabilidad.', 249.99, 20),
+(17,'Teclado y Ratón Inalámbricos', 'Combo de teclado y ratón inalámbricos con diseño ergonómico y conexión estable.', 69.99, 32),
+(18,'Smart Plug Inteligente', 'Enchufe inteligente para controlar dispositivos desde tu smartphone o asistente de voz.', 29.99, 50),
+(19,'Kit de Herramientas de Reparación', 'Conjunto de herramientas para reparar dispositivos electrónicos y gadgets.', 39.99, 25),
+(20,'Gafas de Realidad Virtual', 'Gafas VR para una experiencia inmersiva en juegos y contenido virtual.', 179.99, 15),
+(21,'Cargador Portátil de Alta Capacidad', 'Batería externa con gran capacidad para cargar dispositivos sobre la marcha.', 89.99, 18),
+(22,'Mouse Gamer con Sensor Preciso', 'Mouse diseñado para juegos con sensor óptico de alta precisión y diseño ergonómico.', 59.99, 30),
+(23,'Barra de Sonido Premium', 'Barra de sonido con tecnología avanzada para mejorar la calidad de audio de tu entretenimiento.', 199.99, 12),
+(24,'Adaptador USB-C Multipuerto', 'Adaptador versátil con múltiples puertos para dispositivos con conexión USB-C.', 49.99, 22);
+GO
+
+
+--Procedimientos
+
+CREATE PROCEDURE SpBuscarProductoPorNombre
+	@nombre varchar(100)
+AS
+BEGIN
+	SELECT * FROM Productos
+	WHERE Nombre LIKE '%' + @nombre + '%'
+END
+GO
+
+--CREATE PROCEDURE SpBuscarPreciosPorRango
+--    @RangoInicial DECIMAL(10, 2),
+--    @RangoFinal DECIMAL(10, 2)
+--AS
+--BEGIN
+--    SELECT Nombre, Precio
+--    FROM Productos
+--    WHERE Precio BETWEEN @RangoInicial AND @RangoFinal;
+--END;
+--GO
+
+--CREATE PROCEDURE SpBuscarPreciosMayores300
+--AS
+--BEGIN
+--	SELECT * FROM Productos where Precio > 300
+--END
+--GO
+
+
+CREATE PROCEDURE spGuardarCliente
+(
+  @Nombre VARCHAR(255),
+  @Direccion VARCHAR(255),
+  @Mail VARCHAR(255)
+)
+AS
+BEGIN
+  INSERT INTO Clientes
+  (
+    Nombre,
+    Direccion,
+    Informacion_Contacto
+  )
+  VALUES
+  (
+    @Nombre,
+    @Direccion,
+    @Mail
+  )
+END
+GO
+
+CREATE PROCEDURE SP_GetId
+	@nombre varchar(20)
+AS
+BEGIN
+	SELECT ID_Cliente from Clientes where Nombre = @nombre
+END
+go
+
+
+--Ver registros de clientes
+SELECT * FROM Clientes
+SELECT * FROM Pedidos

@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FrProyectoFinalTerminado\\FrProyectoFinal4\\4\\FrProyectoFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15210E7F-DE74-4B91-A301-A5FCB9362B80}|FrProyectoFinal\\FrProyectoFinal.csproj|D:\\FrProyectoFinalTerminado\\FrProyectoFinal4\\4\\FrProyectoFinal\\frproyectofinal\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15210E7F-DE74-4B91-A301-A5FCB9362B80}|FrProyectoFinal\\FrProyectoFinal.csproj|solutionrelative:frproyectofinal\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15210E7F-DE74-4B91-A301-A5FCB9362B80}|FrProyectoFinal\\FrProyectoFinal.csproj|D:\\FrProyectoFinalTerminado\\FrProyectoFinal4\\4\\FrProyectoFinal\\frproyectofinal\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15210E7F-DE74-4B91-A301-A5FCB9362B80}|FrProyectoFinal\\FrProyectoFinal.csproj|solutionrelative:frproyectofinal\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15210E7F-DE74-4B91-A301-A5FCB9362B80}|FrProyectoFinal\\FrProyectoFinal.csproj|d:\\frproyectofinalterminado\\frproyectofinal4\\4\\frproyectofinal\\frproyectofinal\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15210E7F-DE74-4B91-A301-A5FCB9362B80}|FrProyectoFinal\\FrProyectoFinal.csproj|solutionrelative:frproyectofinal\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15210E7F-DE74-4B91-A301-A5FCB9362B80}|FrProyectoFinal\\FrProyectoFinal.csproj|D:\\FrProyectoFinalTerminado\\FrProyectoFinal4\\4\\FrProyectoFinal\\frproyectofinal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15210E7F-DE74-4B91-A301-A5FCB9362B80}|FrProyectoFinal\\FrProyectoFinal.csproj|solutionrelative:frproyectofinal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15210E7F-DE74-4B91-A301-A5FCB9362B80}|FrProyectoFinal\\FrProyectoFinal.csproj|D:\\FrProyectoFinalTerminado\\FrProyectoFinal4\\4\\FrProyectoFinal\\frproyectofinal\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15210E7F-DE74-4B91-A301-A5FCB9362B80}|FrProyectoFinal\\FrProyectoFinal.csproj|solutionrelative:frproyectofinal\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15210E7F-DE74-4B91-A301-A5FCB9362B80}|FrProyectoFinal\\FrProyectoFinal.csproj|D:\\FrProyectoFinalTerminado\\FrProyectoFinal4\\4\\FrProyectoFinal\\frproyectofinal\\carritocompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15210E7F-DE74-4B91-A301-A5FCB9362B80}|FrProyectoFinal\\FrProyectoFinal.csproj|solutionrelative:frproyectofinal\\carritocompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15210E7F-DE74-4B91-A301-A5FCB9362B80}|FrProyectoFinal\\FrProyectoFinal.csproj|D:\\FrProyectoFinalTerminado\\FrProyectoFinal4\\4\\FrProyectoFinal\\frproyectofinal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15210E7F-DE74-4B91-A301-A5FCB9362B80}|FrProyectoFinal\\FrProyectoFinal.csproj|solutionrelative:frproyectofinal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15210E7F-DE74-4B91-A301-A5FCB9362B80}|FrProyectoFinal\\FrProyectoFinal.csproj|D:\\FrProyectoFinalTerminado\\FrProyectoFinal4\\4\\FrProyectoFinal\\frproyectofinal\\carritocompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15210E7F-DE74-4B91-A301-A5FCB9362B80}|FrProyectoFinal\\FrProyectoFinal.csproj|solutionrelative:frproyectofinal\\carritocompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15210E7F-DE74-4B91-A301-A5FCB9362B80}|FrProyectoFinal\\FrProyectoFinal.csproj|D:\\FrProyectoFinalTerminado\\FrProyectoFinal4\\4\\FrProyectoFinal\\frproyectofinal\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15210E7F-DE74-4B91-A301-A5FCB9362B80}|FrProyectoFinal\\FrProyectoFinal.csproj|solutionrelative:frproyectofinal\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Compra.cs",
+              "DocumentMoniker": "D:\\FrProyectoFinalTerminado\\FrProyectoFinal4\\4\\FrProyectoFinal\\FrProyectoFinal\\Compra.cs",
+              "RelativeDocumentMoniker": "FrProyectoFinal\\Compra.cs",
+              "ToolTip": "D:\\FrProyectoFinalTerminado\\FrProyectoFinal4\\4\\FrProyectoFinal\\FrProyectoFinal\\Compra.cs",
+              "RelativeToolTip": "FrProyectoFinal\\Compra.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAAwEgAAACEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-28T14:07:16.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Compra.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\FrProyectoFinalTerminado\\FrProyectoFinal4\\4\\FrProyectoFinal\\FrProyectoFinal\\Compra.cs",
+              "RelativeDocumentMoniker": "FrProyectoFinal\\Compra.cs",
+              "ToolTip": "D:\\FrProyectoFinalTerminado\\FrProyectoFinal4\\4\\FrProyectoFinal\\FrProyectoFinal\\Compra.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FrProyectoFinal\\Compra.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-28T14:07:16.655Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CarritoCompra.cs",
+              "DocumentMoniker": "D:\\FrProyectoFinalTerminado\\FrProyectoFinal4\\4\\FrProyectoFinal\\FrProyectoFinal\\CarritoCompra.cs",
+              "RelativeDocumentMoniker": "FrProyectoFinal\\CarritoCompra.cs",
+              "ToolTip": "D:\\FrProyectoFinalTerminado\\FrProyectoFinal4\\4\\FrProyectoFinal\\FrProyectoFinal\\CarritoCompra.cs",
+              "RelativeToolTip": "FrProyectoFinal\\CarritoCompra.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwEMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-11-28T14:07:16.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CarritoCompra.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\FrProyectoFinalTerminado\\FrProyectoFinal4\\4\\FrProyectoFinal\\FrProyectoFinal\\CarritoCompra.cs",
+              "RelativeDocumentMoniker": "FrProyectoFinal\\CarritoCompra.cs",
+              "ToolTip": "D:\\FrProyectoFinalTerminado\\FrProyectoFinal4\\4\\FrProyectoFinal\\FrProyectoFinal\\CarritoCompra.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FrProyectoFinal\\CarritoCompra.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-11-28T14:07:16.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "D:\\FrProyectoFinalTerminado\\FrProyectoFinal4\\4\\FrProyectoFinal\\FrProyectoFinal\\Producto.cs",
+              "RelativeDocumentMoniker": "FrProyectoFinal\\Producto.cs",
+              "ToolTip": "D:\\FrProyectoFinalTerminado\\FrProyectoFinal4\\4\\FrProyectoFinal\\FrProyectoFinal\\Producto.cs",
+              "RelativeToolTip": "FrProyectoFinal\\Producto.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-28T14:07:16.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "D:\\FrProyectoFinalTerminado\\FrProyectoFinal4\\4\\FrProyectoFinal\\FrProyectoFinal\\Conexion.cs",
+              "RelativeDocumentMoniker": "FrProyectoFinal\\Conexion.cs",
+              "ToolTip": "D:\\FrProyectoFinalTerminado\\FrProyectoFinal4\\4\\FrProyectoFinal\\FrProyectoFinal\\Conexion.cs",
+              "RelativeToolTip": "FrProyectoFinal\\Conexion.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-28T14:07:16.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Carrito.cs",
+              "DocumentMoniker": "D:\\FrProyectoFinalTerminado\\FrProyectoFinal4\\4\\FrProyectoFinal\\FrProyectoFinal\\Carrito.cs",
+              "RelativeDocumentMoniker": "FrProyectoFinal\\Carrito.cs",
+              "ToolTip": "D:\\FrProyectoFinalTerminado\\FrProyectoFinal4\\4\\FrProyectoFinal\\FrProyectoFinal\\Carrito.cs",
+              "RelativeToolTip": "FrProyectoFinal\\Carrito.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwDEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-28T14:17:44.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\FrProyectoFinalTerminado\\FrProyectoFinal4\\4\\FrProyectoFinal\\FrProyectoFinal\\Form1.cs",
+              "RelativeDocumentMoniker": "FrProyectoFinal\\Form1.cs",
+              "ToolTip": "D:\\FrProyectoFinalTerminado\\FrProyectoFinal4\\4\\FrProyectoFinal\\FrProyectoFinal\\Form1.cs",
+              "RelativeToolTip": "FrProyectoFinal\\Form1.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowCkAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-11-28T14:07:16.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\FrProyectoFinalTerminado\\FrProyectoFinal4\\4\\FrProyectoFinal\\FrProyectoFinal\\Form1.cs",
+              "RelativeDocumentMoniker": "FrProyectoFinal\\Form1.cs",
+              "ToolTip": "D:\\FrProyectoFinalTerminado\\FrProyectoFinal4\\4\\FrProyectoFinal\\FrProyectoFinal\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FrProyectoFinal\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-11-28T14:07:16.75Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
